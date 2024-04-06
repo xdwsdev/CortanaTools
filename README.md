@@ -1,10 +1,15 @@
-# CortanaTools
+# DEPRECATED
+
+This project is no longer maintained.
+The program may still be working, maybe not.
+
+## CortanaTools
 
 Tools to get rid of Cortana
 
 ![img0](https://i.imgur.com/KfNVXAS.png)
 
-# How to keep the file
+## How to keep the file
 
 Edge and other browsers are blocking my file, calling it "Dangerous" Files uploaded by me are __not__ and will __not__ contain a virus.
 
