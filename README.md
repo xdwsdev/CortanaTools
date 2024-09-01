@@ -1,7 +1,6 @@
 # DEPRECATED
 
-This project is no longer maintained.
-The program may still be working, maybe not.
+This program is no longer needed, Cortana was deprecated as a standalone app.
 
 ## CortanaTools
 
